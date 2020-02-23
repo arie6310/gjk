@@ -86,7 +86,7 @@ echo color("green"," =================================== \n");
 						echo "\n".color("red","-] Message: ".$messageboba10);
 					}
 					goride:
-					echo "\n".color("yellow","!] Claim Voc AYOCOBAGOJEK");
+					echo "\n".color("yellow","!] Claim Voc GOFOOD021120A");
 					echo "\n".color("yellow","!] Please wait...");
 					for($a=1;$a<=3;$a++){
 						echo color("yellow",".");
